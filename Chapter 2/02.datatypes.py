@@ -1,0 +1,10 @@
+a=30     #a is integer
+b="Alok" #b is string 
+c=7.14   #c is floating point number
+d=True   #d is boolean variable
+e=None   #e is NoneType variable
+f=[1,2,3] #f is list
+g=(4,5,6) #g is tuple
+h={'name':'Alok','age':30} #h is dictionary
+i={1,2,3} #i is set
+j=1+2j #j is complex number
