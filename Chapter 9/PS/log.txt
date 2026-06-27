@@ -1,0 +1,21 @@
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod qui facilis inventore quae necessitatibus perspiciatis quas quam earum dicta sunt, corrupti excepturi tempore ratione? Dicta nisi, voluptatem vitae, velit voluptas voluptatum iusto aliquid dolorum veritatis repellendus itaque fuga qui sed quaerat sapiente deserunt, repellat sit ullam alias? Nostrum quo molestias qui ex aperiam rerum hic ipsam numquam temporibus cupiditate vel alias eius harum accusamus, distinctio inventore. Asperiores itaque dicta expedita, ipsam nisi reiciendis vel illo id. Commodi enim sint alias fuga velit aliquam tempore officia, eaque natus sit impedit, accusantium vero numquam, illum cum odit est dignissimos deserunt molestiae molestias nemo eum? Quos eaque, accusantium amet veniam libero quo molestias voluptate eius facilis optio dolor fuga, quisquam quidem, praesentium sed? Modi dolores, nesciunt illum debitis tenetur tempore fuga atque maiores sapiente officia sed laborum provident non, voluptatibus ad earum. Optio, minima distinctio! Alias dolores enim inventore, non nisi consectetur laboriosam exercitationem impedit, quasi, unde doloribus fuga. Cumque accusamus enim excepturi illo sequi doloremque sunt voluptate vitae? Corrupti necessitatibus doloribus incidunt consequatur, impedit quas voluptates porro commodi error ducimus nostrum nisi obcaecati molestias distinctio rem! Repellendus dicta eveniet odio odit ullam aliquid nemo! Voluptate ducimus ullam eum reprehenderit quia, mollitia, corporis exercitationem sapiente, suscipit velit magnam iste. Officia inventore fugit, quae doloremque ducimus excepturi laudantium ut velit, voluptatibus, nulla iure. Aperiam fugit facilis provident obcaecati sequi ad officiis vitae, incidunt, necessitatibus facere labore, id recusandae reprehenderit aspernatur impedit ea explicabo qui veritatis voluptatibus a. Accusamus quibusdam aliquid quae perferendis, dolorem, laudantium ab porro ipsum esse repellendus dignissimos aspernatur facilis? In necessitatibus odio quam culpa perferendis impedit saepe labore quisquam sunt laudantium, similique reprehenderit vitae non aspernatur placeat error tenetur quae? Nam, ullam quas assumenda natus odit laudantium aut earum fuga quo voluptatem, ipsa facilis dicta! Sint reiciendis molestiae eos laudantium laboriosam amet quidem odio iste facere, quis enim voluptatem consectetur iure. Atque rem vero ducimus porro dolore, quidem sunt voluptates quaerat, libero possimus voluptatum et, iure architecto? Pariatur impedit facere necessitatibus et excepturi veniam minima, sit a inventore nostrum ipsam incidunt enim eaque itaque perferendis odio obcaecati temporibus cupiditate atque animi suscipit maiores odit. Beatae similique qui eius id assumenda reiciendis placeat, ut nostrum sapiente a. In, porro officia? Quaerat quisquam tempore magnam aperiam, tenetur odio doloribus fugit exercitationem molestiae eligendi pariatur, eum minus necessitatibus ipsum provident fugiat quos temporibus aut repellendus blanditiis asperiores ea soluta sunt repellat. Laborum obcaecati aliquid expedita quia cupiditate earum. Mollitia iste, maiores distinctio ipsa architecto iure accusamus quod sequi consequuntur illo dolor labore nemo python  illum eos, sed hic ullam quibusdam qui voluptatum veritatis, quo quisquam eum quos! Deserunt, beatae ea!      
+
+
+''''lorem435 is an Emmet abbreviation.
+
+If Emmet is working in an HTML file (or a file whose language mode is set to HTML), typing:
+
+lorem435
+
+and then pressing Tab will generate 435 words of Lorem Ipsum placeholder text.
+
+If it just stays as lorem435 (like in your screenshot), then Emmet isn't expanding it. Check these:
+
+Make sure the file's Language Mode is HTML (bottom-right corner of VS Code).
+Press Tab after typing lorem435.
+If it still doesn't work, enable Emmet by adding this to your VS Code settings:
+"emmet.triggerExpansionOnTab": true
+
+or press Ctrl + Shift + P → Emmet: Expand Abbreviation.
+
+If you're following a YouTube tutorial where log.txt expands lorem435, they have likely configured that file to use HTML language mode or associated log.txt with HTML.''''
